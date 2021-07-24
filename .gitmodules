@@ -1,0 +1,6 @@
+[submodule "Federated_Learning_MNIST"]
+	path = Federated_Learning_MNIST
+	url = https://github.com/aswarth123/Federated_Learning_MNIST.git
+[submodule "Federated_learning_facial_paralysis"]
+	path = Federated_learning_facial_paralysis
+	url = https://github.com/aswarth123/Federated_learning_facial_paralysis.git
